@@ -2,6 +2,12 @@
 Analysing the marks of the students in 5 subjects and creating statistical plots 
 
 
+•	The program must be run from command line only: 
+-	Usages: python <program.py> <InputDataFile>
+-	Example: python 101903072-1.py input.csv
+-	Example: python 101903072-2.py output.csv
+
+
 
 101903072-1.py :- In the input.csv file there are certain fields which contain "NAN" , "-" values instead of marks . Hence firstly pre processing has been carried out on this original dataset . Further another dataset has been created from this original dataset . 
 
