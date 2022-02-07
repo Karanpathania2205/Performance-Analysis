@@ -1,5 +1,7 @@
 # Performance-Analysis
-Analysing the marks of the students in 5 subjects and creating statistical plots 
+Analysing the marks of the students in 5 subjects and creating statistical plots using NUMPY PANDAS AND MATPLOTLIB.
+
+
 
 
 •	The program must be run from command line only: 
@@ -9,7 +11,7 @@ Analysing the marks of the students in 5 subjects and creating statistical plots
 
 
 
-101903072-1.py :- In the input.csv file there are certain fields which contain "NAN" , "-" values instead of marks . Hence firstly pre processing has been carried out on this original dataset . Further another dataset has been created from this original dataset . 
+101903072-1.py :- In the input.csv file there are certain fields which contain "NAN" , "-" values instead of marks . Hence firstly DATA PREPROCESSING has been carried out on this original dataset . Further another dataset has been created from this original dataset . In this DATA PREPROCESSING phase seperate coloums have been created for all subjects and the missing values have been deleted.  
 
 ![image](https://user-images.githubusercontent.com/84843202/152729962-c853df7a-96d0-46f2-8c08-f2d5352d2863.png)
 
