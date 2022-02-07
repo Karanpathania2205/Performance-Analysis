@@ -23,6 +23,8 @@ The program is capable of handle exception (if any) and write then to a log file
 
 
 
-2.	WAP a python program that reads the output file (of 1.1) and generates 
--	Multiple plots such as Histogram, Line chart, Pie chart, etc for P1, P2, P3, RP1, RP2, Total-of-all. All the plots must be saved into multiple .png files (filenames must be <RollNo>-<Plot-type>.png | Example 101903001-histrogram.png, 101903001-line.png).
--	Generate the different statistics and save to a txt file: such as Min, Max, Mean, Median, SD, distribution, Count number of missing values, Count Non numeric Values, etc for P1, P2, P3, RP1, RP2, Total-of-all.
+2.	101903072-2.py:- python program that reads the output file (of 1.1) and generates 
+-	Multiple plots such as Histogram, Line chart, Pie chart, etc for P1, P2, P3, RP1, RP2, Total-of-all. All the plots are saved into multiple .png files 
+-	Generated the different statistics and save to a txt file: such as Min, Max, Mean, Median, SD, distribution, Count number of missing values, Count Non numeric Values, etc for P1, P2, P3, RP1, RP2, Total-of-all.
+
+
