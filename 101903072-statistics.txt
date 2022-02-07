@@ -1,0 +1,54 @@
+
+                                           Whole Dataset                                                         
+_____________________________________________________________________________________________________
+  there are 41 NAN Values, 19 - values and 27 values marked as X 
+ Max marks of a student is 71.0
+ Min marks of a students is 13.0
+ Mean marks are 35.60174418604651
+ Median of marks is 41.0
+ Standard Deviation of marks is 9.142608248125
+
+                                           P1                                                          
+_____________________________________________________________________________________________________
+ In P1 there are 8 NAN Values, 2 - values and 8 values marked as X 
+ Max marks in subject P1 is 15.0
+ Min marks in subject P1 is 0.0
+ Mean marks in subject P1 is 11.298050139275766
+ Median of marks in subject P1 is 14.0
+ Standard Deviation of marks in subject P1 is 5.467810484525386
+
+                                           P2                                                        
+_____________________________________________________________________________________________________
+ In P2 there are 12 NAN Values, 7 - values and 10 values marked as X 
+ Max marks in subject P2 is 15.0
+ Min marks in subject P2 is 0.0
+ Mean marks in subject P2 is 10.98076923076923
+ Median of marks in subject P2 is 14.0
+ Standard Deviation of marks in subject P2 is 5.83823848500178
+
+                                           P3                                                        
+_____________________________________________________________________________________________________
+ In P3 there are 16 NAN Values, 7 - values and 5 values marked as X 
+ Max marks in subject P3 is 15.0
+ Min marks in subject P3 is 0.0
+ Mean marks in subject P3 is 10.09192200557103
+ Median of marks in subject P3 is 13.0
+ Standard Deviation of marks in subject P3 is 6.273551508532685
+
+                                           P4                                                     
+_____________________________________________________________________________________________________
+ In P4 there are 2 NAN Values, 0 - values and 2 values marked as X 
+ Max marks in subject P4 is 15
+ Min marks in subject P4 is 0
+ Mean marks in subject P4 is 2.032345013477089
+ Median of marks in subject P4 is 0.0
+ Standard Deviation of marks in subject P4 is 4.993404260388999
+
+                                           P5                                                      
+_____________________________________________________________________________________________________
+ In P5 there are 3 NAN Values, 3 - values and 2 values marked as X 
+ Max marks in subject P5 is 15.0
+ Min marks in subject P5 is 0.0
+ Mean marks in subject P5 is 1.2432432432432432
+ Median of marks in subject P5 is 0.0
+ Standard Deviation of marks in subject P5 is 3.9857837168731756
